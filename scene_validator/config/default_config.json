@@ -1,0 +1,25 @@
+{
+  "frame_range": {
+    "start": 1001,
+    "end": 1100,
+    "severity": "ERROR",
+    "can_fix": true
+  },
+  "naming": {
+    "enabled": true,
+    "severity": "WARNING"
+  },
+  "unused_nodes": {
+  "severity": "WARNING"
+  },
+  "fps": {
+  "allowed": [24, 25, 30, 60],
+  "default": 24,
+  "severity": "WARNING",
+  "can_fix": true
+},
+"locked_nodes": {
+  "severity": "WARNING"
+}
+  
+}
