@@ -51,3 +51,10 @@ automatically fix supported problems.
 - Python 3.11
 - PySide2 (included with Houdini)
 
+## Demo
+
+A short video demonstration is included showing:
+- Running validation
+- Selecting issues
+- Fixing individual and batch issues
+- Handling of locked assets
